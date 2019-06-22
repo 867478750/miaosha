@@ -1,4 +1,4 @@
-package com.nlb.shrio.Util;
+package com.nlb.miaosha.Util;
 
 import at.pollux.thymeleaf.shiro.dialect.ShiroDialect;
 import org.apache.shiro.spring.web.ShiroFilterFactoryBean;

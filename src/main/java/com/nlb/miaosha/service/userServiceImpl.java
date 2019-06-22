@@ -1,7 +1,8 @@
-package com.nlb.shrio.service;
+package com.nlb.miaosha.service;
 
-import com.nlb.shrio.domain.user;
-import com.nlb.shrio.mapper.userMapper;
+
+import com.nlb.miaosha.domain.user;
+import com.nlb.miaosha.mapper.userMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

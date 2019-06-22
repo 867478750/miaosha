@@ -1,7 +1,7 @@
-package com.nlb.shrio.Util;
+package com.nlb.miaosha.Util;
 
-import com.nlb.shrio.domain.user;
-import com.nlb.shrio.service.userServiceImpl;
+import com.nlb.miaosha.domain.user;
+import com.nlb.miaosha.service.userServiceImpl;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.*;
 import org.apache.shiro.authz.AuthorizationInfo;

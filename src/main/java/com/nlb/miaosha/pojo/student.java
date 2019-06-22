@@ -1,4 +1,4 @@
-package com.nlb.shrio.pojo;
+package com.nlb.miaosha.pojo;
 
 public class student {
     private String name;

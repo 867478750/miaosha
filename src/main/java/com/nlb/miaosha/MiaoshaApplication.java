@@ -1,16 +1,16 @@
-package com.nlb.shrio;
+package com.nlb.miaosha;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("com.nlb.shrio.mapper")
-public class ShrioApplication {
+@MapperScan("com.nlb.miaosha.mapper")
+public class MiaoshaApplication {
 
     public static void main(String[] args) {
 
-        SpringApplication.run(ShrioApplication.class, args);
+        SpringApplication.run(MiaoshaApplication.class, args);
     }
 
 }

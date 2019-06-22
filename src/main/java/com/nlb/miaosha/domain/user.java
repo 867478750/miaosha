@@ -1,4 +1,4 @@
-package com.nlb.shrio.domain;
+package com.nlb.miaosha.domain;
 
 public class user {
     private int id;

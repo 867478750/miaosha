@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
-<mapper namespace="com.nlb.shrio.mapper.userMapper">
-    <select id="selectUser" parameterType="String" resultType="com.nlb.shrio.domain.user">
+<mapper namespace="com.nlb.miaosha.mapper.userMapper">
+    <select id="selectUser" parameterType="String" resultType="com.nlb.miaosha.domain.user">
         select id,name,password,perms
         FROM
         user

@@ -1,6 +1,7 @@
-package com.nlb.shrio.service;
+package com.nlb.miaosha.service;
 
-import com.nlb.shrio.domain.user;
+import com.nlb.miaosha.domain.user;
+
 
 public interface userService {
     user selectUserService(String name);

@@ -1,7 +1,8 @@
-package com.nlb.shrio.controller;
+package com.nlb.miaosha.controller;
 
-import com.nlb.shrio.pojo.student;
-import com.nlb.shrio.service.userService;
+
+import com.nlb.miaosha.pojo.student;
+import com.nlb.miaosha.service.userService;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.IncorrectCredentialsException;
 import org.apache.shiro.authc.UnknownAccountException;
